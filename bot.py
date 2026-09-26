@@ -609,7 +609,7 @@ async def single_cc_check(event):
 🏦 Bank {bank}
 🥰 Country {country} {flag}
 
-💡 Made by @ARY4N_10Z
+💡 Made by @ARY4N_L1Z
 """
 
         await status_msg.edit(premium_emoji(final_resp), parse_mode='html')
